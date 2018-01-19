@@ -8,7 +8,6 @@ namespace Factory
     {
         static void Main(string[] args)
         {
-
             IFactoredElement one = Factory.Create("element1");
 
             IFactoredElement two = Factory.Create("element2");

@@ -8,7 +8,7 @@ namespace Factory
 {
     public class Factory
     {
-        public static IFactoredElement GetElement(string criterion)
+        public static IFactoredElement Create(string criterion)
         {
 
             switch (criterion)
