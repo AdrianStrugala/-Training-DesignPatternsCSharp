@@ -1,0 +1,1 @@
+c:\users\strugala\documents\visual studio 2015\Projects\DesignPatternsCSharp\Singleton\bin\Debug\Singleton.exe.config
