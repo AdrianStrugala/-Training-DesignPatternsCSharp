@@ -1,1 +1,7 @@
 c:\users\strugala\documents\visual studio 2015\Projects\DesignPatternsCSharp\Singleton\bin\Debug\Singleton.exe.config
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Singleton\bin\Debug\Singleton.exe.config
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Singleton\bin\Debug\Singleton.exe
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Singleton\bin\Debug\Singleton.pdb
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Singleton\obj\Debug\Singleton.exe
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Singleton\obj\Debug\Singleton.pdb

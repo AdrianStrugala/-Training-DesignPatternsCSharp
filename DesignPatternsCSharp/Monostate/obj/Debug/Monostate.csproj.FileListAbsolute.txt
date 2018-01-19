@@ -1,0 +1,6 @@
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Monostate\bin\Debug\Monostate.exe.config
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Monostate\bin\Debug\Monostate.exe
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Monostate\bin\Debug\Monostate.pdb
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Monostate\obj\Debug\Monostate.csprojResolveAssemblyReference.cache
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Monostate\obj\Debug\Monostate.exe
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Monostate\obj\Debug\Monostate.pdb
