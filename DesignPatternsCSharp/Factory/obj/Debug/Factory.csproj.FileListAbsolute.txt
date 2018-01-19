@@ -1,0 +1,10 @@
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\Factory.exe.config
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\Factory.exe
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\Factory.pdb
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\Iesi.Collections.dll
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\NHibernate.dll
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\Iesi.Collections.xml
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\bin\Debug\NHibernate.xml
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\obj\Debug\Factory.exe
+C:\Projects\DesignPatternsCSharp\DesignPatternsCSharp\Factory\obj\Debug\Factory.pdb
